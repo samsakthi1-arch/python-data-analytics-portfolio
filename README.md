@@ -1,6 +1,6 @@
 # Python Data Analytics & Exploratory Data Analysis (EDA)
 
-This repository contains my end-to-end data analysis workflows Training using Python. It covers data manipulation, cleaning, SQL-like operations with Pandas, exploratory data analysis, and visual storytelling.
+This repository contains my end-to-end data analysis workflows Training using Python. It covers data manipulation, cleaning, Pandas, exploratory data analysis, and visual storytelling.
 
 ---
 
